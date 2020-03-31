@@ -18,7 +18,7 @@ public class Test {
 		String str = in.next();
 		if("°®".equals(str)){
 			System.out.println("²»´øÄãÍæ");
-			System.out.println("´øÄãÍæ");
+			
 			
 		}
 	}
